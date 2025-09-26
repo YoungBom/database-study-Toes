@@ -263,7 +263,9 @@ FROM transactions;
 -- (ㄹ) AVG()
 -- (ㅁ) DECIMAL
 
--- 정답: ㅁㄴㄹㄱㄷ
+-- 정답: ㅁ ㄴ ㄹ ㄱ ㄷ
+
+
 
 
 
